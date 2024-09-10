@@ -23,6 +23,7 @@ Here's a link to my profile on TryHackMe:
 
 ##### BIO
 - ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.python`, `.js`, `.html`, `.css`, `.c`, `.sql`
+- 🐧📖&nbsp;&nbsp; Learning all about **linux/gnu Operating Systems**
 
 
 
