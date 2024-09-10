@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="index.svg" width="800" height="400">
+<img src="index.svg" width="400" height="400">
