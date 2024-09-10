@@ -36,6 +36,7 @@ Here's a link to my profile on TryHackMe:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 #### Backend
@@ -58,12 +59,22 @@ Here's a link to my profile on TryHackMe:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xHera4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
+#### OTHER
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
+
+
+
+ ## 💰 Donating For improve access to the best education.
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kohanamei1t) 
+
 [![](https://visitcount.itsvg.in/api?id=0xHera4&icon=1&color=3)](https://visitcount.itsvg.in)
 
 
 https://github.com/user-attachments/assets/258ec74c-6827-451a-890e-94b277fd1cdd
 
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
