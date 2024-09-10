@@ -17,5 +17,14 @@ Here are some ideas to get you started:
 
 <img src="index.svg" width="400" height="400">
 
+Here's a link to my profile on TryHackMe:
+
+[![TryHackMe Profile](0xKine.png)](https://tryhackme-badges.s3.amazonaws.com/0xKine.png)
+
 ##### BIO
 - ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.python`, `.js`, `.html`, `.css`, `.c`, `.sql`
+
+
+
+
+
