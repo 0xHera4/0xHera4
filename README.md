@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Here's a link to my profile on TryHackMe:
 
-[![TryHackMe Profile](/assets/0xKine.png)](https://tryhackme-badges.s3.amazonaws.com/0xKine.png)
+[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/0xKine.png)](https://tryhackme-badges.s3.amazonaws.com/0xKine.png)
 
 ##### BIO
 - ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.python`, `.js`, `.html`, `.css`, `.c`, `.sql`
