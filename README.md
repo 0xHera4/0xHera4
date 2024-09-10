@@ -29,8 +29,8 @@ Here's a link to my profile on TryHackMe:
 
 
 # 💻 Tech Stack:
-
-#### Languages
+ 
+#### 📋 Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -39,30 +39,34 @@ Here's a link to my profile on TryHackMe:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-#### Backend
+#### 🗄️ Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 
 
-#### Web Hosting
+#### ☁️ Hosting
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 
-#### Version Control
+#### 🕓 Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
-#### Server
+#### 🖥️ Server
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-#### DataBase
+#### 💾 DataBase
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-#### OTHER
+#### 🎛️ Operating System
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+#### 🥅 OTHER
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 
