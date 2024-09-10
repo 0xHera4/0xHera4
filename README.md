@@ -19,9 +19,8 @@ Here are some ideas to get you started:
     <div class="typing-demo">
       This is a typing demo.
     </div>
-</div>
-
-.wrapper {
+    <style>
+        .wrapper {
   height: 100vh;
   /*This part is important for centering*/
   display: grid;
@@ -49,4 +48,8 @@ Here are some ideas to get you started:
     border-color: transparent
   }
 }
+    </style>
+</div>
+
+
 
