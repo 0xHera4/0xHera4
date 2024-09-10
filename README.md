@@ -46,7 +46,7 @@ Here's a link to my profile on TryHackMe:
 
 #### ☁️ Hosting
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-000?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 
 #### 🕓 Version Control
