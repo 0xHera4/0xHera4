@@ -74,7 +74,7 @@ Here's a link to my profile on TryHackMe:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xHera4&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xHera4&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xHera4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
