@@ -15,12 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="wrapper">
-    <div class="typing-demo">
-      This is a typing demo.
-    </div>
-  
-</div>
-
-
-
+<img src="index.svg" width="800" height="400">
