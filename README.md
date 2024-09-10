@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="index.svg" width="400" height="400">
+
+##### BIO
+- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.python`, `.js`, `.html`, `.css`, `.c`, `.sql`
