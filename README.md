@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently on an exciting journey to learn and explore various topics in technology. My primary interests include Linux, Bash scripting, C programming, backend development, networking, and computer security. I'm continuously developing my knowledge and skills in these areas. This GitHub is where I document my progress, share my projects, and collaborate with others. I'm passionate about understanding the technical details and building a strong foundation in these fields. Let's learn and grow together!
 <!--
 **0xHera4/0xHera4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
