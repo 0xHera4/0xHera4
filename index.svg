@@ -19,7 +19,7 @@
                      border-right: 3px solid;
                      font-family: monospace;
                      font-size: 2em;
-                     color: black;
+                     color: green;
 }
 
 @keyframes typing {
