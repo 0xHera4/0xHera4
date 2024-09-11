@@ -55,16 +55,16 @@ Here's a link to my profile on TryHackMe:
 
 
 #### 🖥️ Server
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-000?style=for-the-badge&logo=nginx&logoColor=white)
 
 
 #### 💾 DataBase
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 #### 🎛️ Operating System
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white)
 
 #### 🥅 OTHER
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
