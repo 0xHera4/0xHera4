@@ -67,12 +67,11 @@ Here's a link to my profile on TryHackMe:
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white)
 
 #### 🥅 OTHER
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Aseprite](https://img.shields.io/badge/Aseprite-#7D929E?style=for-the-badge&logo=Aseprite&logoColor=FFFFFF)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 
 
 # System.exit(0);
-
 
 
 
