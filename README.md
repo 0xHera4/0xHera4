@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
-<img src="index.svg" width="600" height="400">
 
+<img src="7147a8d77925f872cf134f50885e0339.jpg" width="600" height="400">
+<!--
 Here's a link to my profile on TryHackMe:
 
 [![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/0xKine.png)](https://tryhackme-badges.s3.amazonaws.com/0xKine.png) -->
