@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="7147a8d77925f872cf134f50885e0339.jpg" width="300" height="400">
+<img src="7147a8d77925f872cf134f50885e0339.jpg" width="300" height="300">
 <!--
 Here's a link to my profile on TryHackMe:
 
